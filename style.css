@@ -1,5 +1,5 @@
 /* Basic Style */
-body {
+.body {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -113,7 +113,7 @@ button{
   vertical-align: middle;
 }
 
-.tasks__list__item > input[type="checkbox"] {
+.tasks__list__item > .checkbox {
   margin: 0 10px;
 }
 
